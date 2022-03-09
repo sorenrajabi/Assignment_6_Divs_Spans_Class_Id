@@ -30,9 +30,10 @@
 }
 
 .right-picture {
-    width: 100%;
+    width: 80%;
     border-radius: 10px;
     box-shadow: -5px 5px 10px black;
+    
 }
 
 /* All code below here is already implemented. But feel free to explore */
